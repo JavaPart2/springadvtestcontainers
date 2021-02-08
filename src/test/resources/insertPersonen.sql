@@ -1,0 +1,1 @@
+insert into personen(voornaam, familienaam) values ('Joe','Dalton');
